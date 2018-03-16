@@ -1,0 +1,10 @@
+E:\Network Programming\Lab2-Bai01\Server\bin\Debug\Server.exe.config
+E:\Network Programming\Lab2-Bai01\Server\bin\Debug\Server.exe
+E:\Network Programming\Lab2-Bai01\Server\bin\Debug\Server.pdb
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.Form1.resources
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.exe
+E:\Network Programming\Lab2-Bai01\Server\obj\Debug\Server.pdb

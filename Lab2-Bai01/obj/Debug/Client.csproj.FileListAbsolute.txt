@@ -1,0 +1,9 @@
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\bin\Debug\Lab2-Bai01.exe.config
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\bin\Debug\Lab2-Bai01.exe
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\bin\Debug\Lab2-Bai01.pdb
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Lab2_Bai01.Form1.resources
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Lab2_Bai01.Properties.Resources.resources
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Lab2-Bai01.exe
+E:\Network Programming\Lab2-Bai01\Lab2-Bai01\obj\Debug\Lab2-Bai01.pdb
